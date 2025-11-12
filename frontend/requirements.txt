@@ -1,0 +1,9 @@
+# Frontend Requirements
+# =====================
+# Dipendenze per il frontend Streamlit
+
+# UI Framework
+streamlit==1.39.0
+
+# HTTP Requests
+requests==2.32.3

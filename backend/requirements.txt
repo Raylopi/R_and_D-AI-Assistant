@@ -1,0 +1,27 @@
+# Backend Requirements
+# ====================
+# Dipendenze per il backend FastAPI con LangGraph
+
+# Web Framework
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+
+# LangChain & LangGraph
+langgraph==0.2.45
+langchain==0.3.7
+langchain-openai==0.2.8
+langchain-community==0.3.7
+langchain-core==0.3.18
+
+# Vector Store
+chromadb==0.5.20
+
+# Web Search
+tavily-python==0.5.0
+
+# Embeddings & LLM
+openai==1.54.4
+
+# Utilities
+pydantic==2.9.2
+python-dotenv==1.0.1
